@@ -6,6 +6,9 @@ If it dies you get another!
 
 # Controls
 ```
+W                   Jump
+A D                 Move left, right
+
 Left Click          Grab square
 Right Click         Drop food
 ```
