@@ -49,4 +49,4 @@ Play with and feed your new square pet! The quivering only means it's having fun
 
 Make a game.
 
-I chose a project that allowed me to explore modeling a system with more complex behavior! Here the sheep will wander and flock together over time, but scatter and wander aimlessly for a bit if the dog get's too close. 
+I chose a project that allowed me to explore modeling a system with more complex behavior! Here the sheep will wander and flock together over time, but scatter and wander aimlessly for a bit if the dog gets too close. 
